@@ -11,3 +11,4 @@ C# Media Player
 MP3 Media Player in VB.Net
 MP3 Media Player in C#
 
+<img src="Capture.PNG">
