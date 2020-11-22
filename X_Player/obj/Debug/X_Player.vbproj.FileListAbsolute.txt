@@ -1,0 +1,16 @@
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\bin\Debug\X_Player.exe.config
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\bin\Debug\X_Player.exe
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\bin\Debug\X_Player.pdb
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\bin\Debug\X_Player.xml
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\X_Player.Form1.resources
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\X_Player.Resources.resources
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\X_Player.vbproj.GenerateResource.Cache
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\X_Player.exe
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\X_Player.xml
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\X_Player.pdb
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\bin\Debug\Bunifu_UI_v1.4.dll
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\bin\Debug\Interop.WMPLib.dll
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\bin\Debug\AxInterop.WMPLib.dll
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\Interop.WMPLib.dll
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\AxInterop.WMPLib.dll
+D:\My Projects\Visual Studio\X_Player\X_Player\X_Player\obj\Debug\X_Player.vbproj.ResolveComReference.cache
